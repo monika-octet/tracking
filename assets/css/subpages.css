@@ -1,0 +1,97 @@
+.domain-header{
+    padding: 0px 30px;
+    background: #ffffff;
+    color: #2A2A2A;
+    height: 70px;
+}
+.domain-header a{
+    color: #2A2A2A;
+    font-size: 16px;
+    font-weight: 500;
+}
+.domain-center{
+    height: calc(100vh - 90px);
+    padding-top: 100px;
+}
+.domain-wrap{
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+    max-width: 700px;
+    margin: auto;
+}
+.domain-wrap h1{
+    font-size: 18px;
+    font-weight: 500;
+    color: #2A2A2A;
+}
+.domain-wrap p{
+    font-size: 14px;
+    font-weight: 400;
+    color: #070707;
+}
+a.link{
+    font-size: 14px;
+    font-weight: 500;
+    color: #525252;
+}
+a.link-box{
+    font-size: 14px;
+    font-weight: 500;
+    color: #525252;
+    border: 1px solid #D9D9D9;
+    border-radius: 4px;
+    margin-right: 10px;
+    padding: 8px 20px;
+}
+a.link-box:hover{
+    text-decoration: none;
+    background: #F5F5F5;
+}
+.domain-wrap ul{
+    padding-left: 15px;
+}
+.domain-wrap ul li{
+    font-size: 14px;
+    color: #2A2A2A;
+    margin: 4px 0;
+}
+.domain-wrap ol{
+    padding-left: 15px;
+}
+.domain-wrap ol li{
+    font-size: 14px;
+    color: #2A2A2A;
+    margin: 10px 0;
+}
+.domain-wrap .btn{
+    min-width: 70px;
+}
+.site-key input{
+    border: none;
+    border-bottom: 1px solid #ABABAB;
+    padding: 0px;
+    pointer-events: none;
+    min-height: 37px !important
+}
+.site-key .btn-secondary {
+    color: #fff;
+    background-color: #ABABAB;
+    border-color: #ABABAB;
+    border-radius: 3px !important;
+    padding: 5px !important;
+    height: 35px !important;
+  }
+  .select-subdomain select{
+    border:none;
+    height: 45px;
+    font-size: 14px;
+    color: #2A2A2A;
+  }
+  .select-subdomain .custom-select:focus{
+    border-color: none;
+outline: 0;
+box-shadow: none;
+  }
+  
